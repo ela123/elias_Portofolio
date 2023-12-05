@@ -1,0 +1,71 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20vh;
+    background-color: #052d4b;
+}
+.about:hover{
+    background: #021e3a  ;
+
+}
+.abt{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+}
+.note{
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+.who_i_am{
+    margin-top: 3vh;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: -4dvw;
+}
+h3{
+    display: flex;
+    color: bisque;
+}
+#btn{
+    margin-top: 10px;
+    height: 5dvh;
+    width: 9dvw;
+    font-size: large;
+    background: transparent;
+    color:black;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+#btn:hover{
+    background-color: black;
+    color: whitesmoke;
+
+}
+.photo img{
+    block-size: 350px;
+    inline-size: 350px;
+    border-radius: 10%;
+}
+.photo{
+    margin-block-start: 30px;
+}
+.abt_me{
+    color: black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul li {
+    margin-top: 3vh;
+}
+#span{
+    color: white;
+    margin-right: 5px;
+
+}
+p{ 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

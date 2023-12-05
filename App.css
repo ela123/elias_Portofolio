@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(1, 1, 32) ;
+  background-image: url(./assets/gnhebryn.png) ;
+
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode:soft-light ;
+  
+  
+}
+
